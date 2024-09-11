@@ -123,7 +123,7 @@ MIT License - See `LICENSE` file for details.
 
 ## Contributing 🤝
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/rentry-tor-paste/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/rxc0n/rentry-tor-paste/issues).
 
 ## Support 💬
 
